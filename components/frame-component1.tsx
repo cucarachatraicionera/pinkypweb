@@ -31,6 +31,7 @@ const FrameComponent1: NextPage<FrameComponent1Type> = ({ className = "" }) => {
               width={400}
               height={400}
               alt=""
+              src="/background-2@2x.png"
             />
           </div>
           <div className="self-stretch flex flex-row items-start justify-start py-0 pl-[30px] pr-[31px]">
